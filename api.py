@@ -17,7 +17,7 @@ doctors = [
         },
         'location': 'KIMS Hospital, kondapur, Hyderabad',
         'appointments' : [],
-        'max_appointments' : 10
+        'max_appointments' : 20
     },
     {
         'id': 2,
@@ -33,7 +33,7 @@ doctors = [
         },
         'location': 'KIMS Hospital, kondapur, Hyderabad',
         'appointments' : [],
-        'max_appointments' : 10
+        'max_appointments' : 15
     }
 ]
 
