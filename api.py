@@ -85,5 +85,4 @@ def create_appointment():
     doctor[0]['appointments'].append(new_appointment)
     new_appointment["status"] = "appointment created successfully."
     return jsonify(new_appointment), 201
-if __name__ == '__main__':
-    app.run(debug=True)
+
